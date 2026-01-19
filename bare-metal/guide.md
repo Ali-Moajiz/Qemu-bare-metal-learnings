@@ -87,6 +87,3 @@ qemu-system-arm -M xilinx-zynq-a9 -serial mon:stdio -nographic -kernel hello.elf
 > Develop a **complete Linux BSP** for the **Xilinx Zynq-7000** board in a custom way — as close to real-world as possible.
 
 ---
-
-**Author:** _Converted from `readme.txt`_  
-**Format:** Markdown (`.md`)
